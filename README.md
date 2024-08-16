@@ -1,12 +1,11 @@
 # AngularProject-Penske
 
-Pictures of the web app component I helped develop with other interns during my internship at Penske
-Obviously I cant post the source code
-
+Pictures of the web app component I helped develop with other interns during my internship at Penske, 
+obviously cant post the source code
 
 ![image](https://github.com/user-attachments/assets/dd3b9112-013c-4ca1-94d4-7e25f163d7b7)
 
-This is what the section that we worked on looked like wqhen you first clicked into it. It connects to a Microsoft SQL Server via Java RESTful endpoints and returned by HTTP requests within the Angular project to perform CRUD operations. I believe the Java backend was set up using Spring Boot to allow the HTTP requests to interact with the SQL server. 
+This is what the section that we worked on looked like when first clicked into. It connects to a Microsoft SQL Server via Java RESTful endpoints and returned by HTTP requests within the Angular project to perform CRUD operations. I believe the Java backend was set up using Spring Boot to allow the HTTP requests to interact with the SQL server. 
 
 ![image](https://github.com/user-attachments/assets/d2dc72ce-861f-4e24-a8ec-698899a27257)
 
