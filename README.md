@@ -5,11 +5,11 @@ obviously cant post the source code
 
 ![image](https://github.com/user-attachments/assets/dd3b9112-013c-4ca1-94d4-7e25f163d7b7)
 
-This is what the section that we worked on looked like when first clicked into. It connects to a Microsoft SQL Server via Java RESTful endpoints and returned by HTTP requests within the Angular project to perform CRUD operations. I believe the Java backend was set up using Spring Boot to allow the HTTP requests to interact with the SQL server. 
+This is what the section that we worked on looked like when first clicked into. It connects to a Microsoft SQL Server via Java RESTful endpoints and returned by HTTP requests within the Angular project to perform CRUD operations. I believe the Java backend was set up using Spring Boot to allow the HTTP requests to interact with the SQL server. (this is dummy data and not actually connected currently, but I promise it was during our development)
 
 ![image](https://github.com/user-attachments/assets/d2dc72ce-861f-4e24-a8ec-698899a27257)
 
-This is the add new dialog that would pop up when users clicked the add new button. Upon clicking save the assignment would be entered into the SQL databse via a POST request.
+This is the 'Add New' dialog that would pop up when users clicked the add new button. Upon clicking save, the new assignment would be entered into the SQL databse via a POST request.
 
 ![image](https://github.com/user-attachments/assets/3520b9cb-aa35-431c-b252-231fe86d3f68)
 
