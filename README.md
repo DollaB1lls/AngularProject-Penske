@@ -1,7 +1,8 @@
 # AngularProject-Penske
 
-Pictures of the web app compnent I helped develop with other interns during my internship at Penske
+Pictures of the web app component I helped develop with other interns during my internship at Penske
 Obviously I cant post the source code
+
 
 ![image](https://github.com/user-attachments/assets/dd3b9112-013c-4ca1-94d4-7e25f163d7b7)
 
